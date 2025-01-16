@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:background="#FFFF">
+
+    <!-- Logo Image -->
+    <ImageView
+        android:id="@+id/logoImageView"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/hkuhotspotlogo"
+        android:contentDescription="Logo"
+        android:background="#FFFF"/>
+
+    <!-- Register Button -->
+    <Button
+        android:id="@+id/registerButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:padding="15dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@color/light_blue"
+        android:textColor="#FFFFFF"/>
+
+    <!-- Login Button -->
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:padding="15dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@color/light_blue"
+        android:textColor="#FFFFFF"/>
+
+    
+
+</LinearLayout>

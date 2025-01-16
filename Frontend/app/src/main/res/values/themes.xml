@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HKU_Hotspot_Frontend" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:textColorPrimary">@color/text_color</item>
+        <item name="profileDrawable">@drawable/profile</item>
+        <item name="arrowDrawable">@drawable/arrow</item>
+
+    </style>
+
+    <style name="Theme.HKU_Hotspot_Frontend" parent="Base.Theme.HKU_Hotspot_Frontend" />
+
+</resources>

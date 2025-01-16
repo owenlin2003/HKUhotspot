@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HKU_Hotspot_Frontend</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="notifications">Notifications</string>
+    <string name="privacy">Privacy</string>
+    <string name="my_map_api_key">AIzaSyAjDQ2vV4_H6HKqav1punKPtYAHvOzvVs4</string>
+    <string name="map">Map</string>
+    <string name="profile">Profile</string>
+    <string name="restaurant_list">Restaurant List</string>
+    <string name="menu">Menu</string>
+    <string name="toggle_bot">Toggle Bots</string>
+</resources>

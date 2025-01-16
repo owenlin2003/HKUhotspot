@@ -1,0 +1,24 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background properties like color, etc. -->
+    <item android:id="@android:id/background">
+        <shape>
+            <gradient
+                android:angle="0"
+                android:startColor="#00FF00"
+                android:centerColor="#FFFF00"
+                android:endColor="#FF0000"
+                android:centerX="0.5"
+                android:type="linear" />
+            <corners android:radius="20dp" />
+        </shape>
+    </item>
+
+    <!-- Progress properties (invisible, so it doesn't alter the gradient) -->
+    <item android:id="@android:id/progress">
+        <shape>
+            <solid android:color="#00000000" /> <!-- Fully transparent -->
+            <corners android:radius="20dp" />
+        </shape>
+    </item>
+</layer-list>
