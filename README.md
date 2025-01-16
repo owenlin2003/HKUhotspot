@@ -4,6 +4,8 @@ A mobile application for displaying hotspot at the University of Hong Kong and c
 
 # Creators
 
+Owen Lin
+
 Mohamed Amin Srarfi
 
 Philipp Bader
@@ -11,8 +13,6 @@ Philipp Bader
 Maximilian Glasmacher
 
 Hanqi Zhu
-
-Owen Lin
 
 Kessel Diaroumeye 
 
